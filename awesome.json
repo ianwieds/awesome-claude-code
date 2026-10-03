@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Claude Code",
+  "repo": "ianwieds/awesome-claude-code",
+  "tagline": "A curated list of plugins, skills, hooks, subagents, mods, tools and guides for Claude Code, the coding agent from Anthropic.",
+  "scope": "It is about Claude Code, not a general AI tool with no Claude Code angle.",
+  "accent": "D97757",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: plugin pieces and small bots drop into a dock around a terminal while a spark glows above it."
 }
