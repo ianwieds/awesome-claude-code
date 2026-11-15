@@ -1303,10 +1303,10 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turns sessions into animated web replays.
 - [zclean](https://github.com/TheStack-ai/zclean) - Kills orphaned processes left by agents and MCP servers.
 
+<!-- awesome:footer -->
 ## Contributing
 
-Read the [contribution guidelines](contributing.md) before you open a pull request.
+Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
