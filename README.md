@@ -1031,7 +1031,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [KANBAII](https://github.com/martinmsaavedra/kanbaii) - Kanban board for planning work that Claude Code runs.
 - [Lockpaw](https://github.com/sorkila/lockpaw) - Locks your Mac screen while agents keep working.
 - [Nimbalyst](https://github.com/nimbalyst/nimbalyst) - Visual workspace for running several coding agents in parallel.
-- [notch-so-good](https://github.com/deepshal99/notch-so-good) - Mac notch app with a pixel-art crab that shows session status.
+- [notch-so-good](https://github.com/deepshal99/notch-so-good) - Mac notch app with Peek, a tiny 3D character, for session status, approvals and replies.
 - [OctoAlly](https://github.com/ai-genius-automations/octoally) - Web dashboard to launch and monitor sessions.
 - [Omnara](https://github.com/omnara-ai/omnara) - Syncs sessions across terminal, web and phone.
 - [Onepilot](https://onepilotapp.com) - iOS app for running coding agents on servers over SSH.
