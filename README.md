@@ -1217,6 +1217,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 
 ## Testing and code review
 
+- [agent-qa](https://vostride.com) - Web and mobile QA for Claude Code, with MCP tools, persistent memory, and self-improvement.
 - [AgentLint](https://github.com/0xmariowu/AgentLint) - Checks a repo for how well AI agents can work in it.
 - [agnix](https://github.com/agent-sh/agnix) - Linter and language server for CLAUDE.md, SKILL.md, hooks and MCP.
 - [better-harness](https://github.com/QoderAI/better-harness) - Run controlled experiments on agent harnesses.
