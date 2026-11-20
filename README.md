@@ -157,7 +157,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [mobile-spine](https://github.com/bentleypark/claude-code-mobile-spine) - Scaffolds a mobile meta-repo coordinated by four subagents.
 - [MyVibe](https://www.myvibe.so) - Publishes a site from Claude Code with one command.
 - [nirecom/agents](https://github.com/nirecom/agents) - Hook-driven harness with a review loop across two AI providers.
-- [Omega](https://github.com/Omega-JS-Stack/omega/tree/main/agent-plugins/claude) - Skills, hooks and an MCP router for projects built on the Omega framework.
+- [Omega](https://github.com/omegajs-dev/omega/tree/main/agent-plugins/claude) - Skills, hooks and an MCP router for projects built on the Omega framework.
 - [OSS Autopilot](https://github.com/costajohnt/oss-autopilot) - Tracks open source PRs and drafts replies to maintainers.
 - [Pilot Shell](https://github.com/maxritter/pilot-shell) - Spec-driven harness with quality hooks for Claude Code and Codex.
 - [plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives) - Plugins for power users from Team Attention.
