@@ -123,6 +123,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [Claude Code Skills](https://claude-skills.bt199.com) - Chinese directory of skills, agents and plugins.
 - [claude-code-skills](https://github.com/daymade/claude-code-skills) - Marketplace of development skills.
 - [ClaudoPro Directory](https://github.com/JSONbored/awesome-claude) - Registry of Claude agents, MCP servers, skills, hooks and commands.
+- [HOL Plugins](https://hol.org/plugins) - Directory of plugins, skills and MCP servers for Claude Code, Codex and other coding agents.
 - [n-skills](https://github.com/numman-ali/n-skills) - Small curated plugin marketplace.
 - [Netresearch Agentic Skills](https://github.com/netresearch/claude-code-marketplace) - Marketplace of skills for AI-assisted development.
 - [Observal](https://github.com/Observal/Observal) - Self-hosted registry for agent extensions with insights.
