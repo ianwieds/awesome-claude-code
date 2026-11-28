@@ -177,6 +177,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 
 ### Skill collections
 
+- [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) - Skill kit that plans agent work first, then checks it with tests and formal verification.
 - [9arm-skills](https://github.com/thananon/9arm-skills) - Personal skill set loaded by Claude Code.
 - [agent-skills](https://github.com/addyosmani/agent-skills) - Addy Osmani's engineering skills for coding agents.
 - [Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - Skills on context engineering and multi-agent design.
